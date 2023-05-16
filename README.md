@@ -34,4 +34,8 @@ Dimitri Melo Dourado
 >>>>>>> de67d0fd9e815de4eff7bac02ca67d8cfe1450bc
 >>>>>>> 540c4d77a02d7083288f8a67ceb0bdddee6b2df8
 >>>>>>> 1838e2a394bc786611c041e24f6c0aa71f3362ab
+<<<<<<< HEAD
 >>>>>>> 066b208767c6571bec793e34e6ec084483fbef03
+=======
+Gabriel de Castro
+>>>>>>> Gabriel
